@@ -196,7 +196,7 @@ def do_yes_no_reading():
 # Main Loop
 while True:
   print("\nWelcome to Diabolist Tarot!")
-  print("Write your Yes or No question here and the program will randomly give an answer.\n Remember Tarot should be used as secondary divination, and you should keep all emotions out of mind when using it.")
+  print("Write your Yes or No question here and the program will randomly give an answer.\n Remember you should try your best to keep at bay when using Tarot.")
   print("Type 'exit' to quit.")
 
   question = input("Your question: ")
